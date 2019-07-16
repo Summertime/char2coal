@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {"tag": "minecraft:logs"},
+  "result": "minecraft:coal",
+  "experience": 0.15,
+  "cookingtime": 200
+}
+
